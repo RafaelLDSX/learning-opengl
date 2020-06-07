@@ -33,3 +33,6 @@
 
 # builddir meson
 builddir/
+
+#vscode
+.vscode/
