@@ -1,7 +1,8 @@
 subdir('glad')
 
 src = [
-  'main.cpp'
+  'main.cpp',
+  'shader.cpp'
 ]
 
 gl_exe = executable(
